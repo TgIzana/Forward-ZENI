@@ -21,3 +21,5 @@
 * `BOT_SESSION` - ʏᴏᴜʀ ʙᴏᴛ ɴᴀᴍᴇ. (Optional)
 * `FORCE_SUB_CHANNEL` - ᴇɴᴛᴇʀ ᴛʜᴇ ʟɪɴᴋ ᴏғ ғ_ꜱᴜʙ ᴄʜᴀɴɴᴇʟ ᴡɪᴛʜ ʟɪᴋᴇ https://t.me/aayein17 
 </details>
+
+Bot Base Repo: vjs
